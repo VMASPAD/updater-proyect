@@ -1,4 +1,4 @@
-# Updater
+# Updater proyect
 
 A simple JavaScript utility to check for version updates from any URL endpoint.
 
