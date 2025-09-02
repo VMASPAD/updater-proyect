@@ -66,6 +66,7 @@ Your endpoint should return JSON with at least these fields:
 }
 ```
 
+<img src="https://view-stats-backend.hermesbackend.xyz/image?repository=https://github.com/VMASPAD/updater-proyect&color=7DDA58"/>
 ## License
 
 ISC
